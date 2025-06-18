@@ -21,3 +21,4 @@ E:\Nimbuz\dotnet\obj\Debug\net8.0\refint\dotnet.dll
 E:\Nimbuz\dotnet\obj\Debug\net8.0\dotnet.pdb
 E:\Nimbuz\dotnet\obj\Debug\net8.0\dotnet.genruntimeconfig.cache
 E:\Nimbuz\dotnet\obj\Debug\net8.0\ref\dotnet.dll
+E:\Nimbuz\dotnet\obj\Debug\net8.0\dotnet.sourcelink.json
